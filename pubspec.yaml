@@ -1,0 +1,94 @@
+name: rider
+description: A new Flutter project.
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  firebase_core: 
+  firebase_auth: 
+  firebase_database:
+  fluttertoast:
+  google_maps_flutter:
+  geolocator:
+  http:
+  provider:
+  flutter_polyline_points:
+  font_awesome_flutter:
+  animated_text_kit:
+  flutter_geofire:
+  intl_phone_field:
+  firebase_analytics:
+  cloud_firestore:
+  sms_autofill:
+  country_pickers:
+  masked_text_input_formatter:
+  pin_code_fields:
+  connectivity: 
+  flutter_offline:  
+  dio: 
+
+dev_dependencies:
+  flutter_native_splash:
+  flutter_launcher_icons:
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash.png
+  android: true
+  ios: true
+
+flutter_icons:
+  image_path: "assets/images/log.png" 
+  android: true
+  ios: true
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/car_android.png
+    - assets/images/car_ios.png
+    - assets/images/desticon.png
+    - assets/images/desticon1.png
+    - assets/images/logo.png
+    - assets/images/logo1.png
+    - assets/images/pickicon.png
+    - assets/images/posimarker.png
+    - assets/images/redmarker.png
+    - assets/images/taxi.png
+    - assets/images/user_icon.png
+    - assets/images/mort.png
+    - assets/images/log.png
+
+ 
+
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+         
+
+    - family: Brand-Regular
+      fonts:
+        - asset: assets/fonts/bolt-regular.ttf
+         
+
+    - family: Brand Bold
+      fonts:
+        - asset: assets/fonts/bolt-semibold.ttf
+         

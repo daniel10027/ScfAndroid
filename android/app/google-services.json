@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075312812986",
+    "firebase_url": "https://rider-57a9b-default-rtdb.firebaseio.com",
+    "project_id": "rider-57a9b",
+    "storage_bucket": "rider-57a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075312812986:android:fbdaa0daf715fee6453383",
+        "android_client_info": {
+          "package_name": "com.daniel10027.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075312812986-bnm33ua9jmkr5q65ube0dilqs4jnlpgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daniel10027.riderapp",
+            "certificate_hash": "a6dbb20af65674dfa3810d786eea674ab6cac950"
+          }
+        },
+        {
+          "client_id": "1075312812986-8v14pa2f6a73j9037ptmc0a2vobpuv24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKj28yC5s2jqVrvw34c1ueXlc44syb4rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075312812986-8v14pa2f6a73j9037ptmc0a2vobpuv24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075312812986-7fcevc5btdavbjb0r05sjaq1p4k8mlk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daniel10027.BimAdminapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
