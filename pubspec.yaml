@@ -30,7 +30,7 @@ dependencies:
   firebase_analytics:
   cloud_firestore:
   sms_autofill:
-  country_pickers:
+  country_pickers: ^2.0.0
   masked_text_input_formatter:
   pin_code_fields:
   connectivity: 
